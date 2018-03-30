@@ -1,6 +1,7 @@
-<svg viewBox='0 0 120 240'>
+<svg
+    version='1.1'
+    viewBox='0 0 120 240'>
   <ellipse cx='40' cy='130' rx='36' ry='22.25' transform="rotate(150, 40, 130)"/>
   <line x1='70' y1='0' x2='70' y2='120' style='stroke:rgb(0,0,0); stroke-width:6;'/>
   <path d='M70,0 Q110,0 110,40' fill='rgba(0,0,0,0)' style='stroke:rgb(0,0,0); stroke-width:6;'/>
-  "M100,30 C114,118 242,28 237,239
 </svg>
