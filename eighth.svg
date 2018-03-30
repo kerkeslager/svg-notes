@@ -5,5 +5,5 @@
     xmlns="http://www.w3.org/2000/svg">
   <ellipse cx='40' cy='130' rx='36' ry='22.25' transform="rotate(150, 40, 130)"/>
   <line x1='70' y1='0' x2='70' y2='120' style='stroke:rgb(0,0,0); stroke-width:6;'/>
-  <path d='M70,3 C110,3 110,43 90,63 S90,83 95,98' fill='rgba(0,0,0,0)' style='stroke:rgb(0,0,0); stroke-width:6;'/>
+  <path d='M70,3 C150,3 150,43 110,63 S110,83 120,98' fill='rgba(0,0,0,0)' style='stroke:rgb(0,0,0); stroke-width:6;'/>
 </svg>
